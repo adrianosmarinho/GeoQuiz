@@ -1,5 +1,6 @@
 package com.bignerdranch.android.geoquiz;
 
+// Testing a comment for github!
 public class Question {
     private int mTextResId; // question resource id (the string is defined in strings.xml
     private boolean mAnswerTrue; // question answer (true or false)
